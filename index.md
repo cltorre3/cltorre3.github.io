@@ -6,10 +6,10 @@ title: Home
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
-Hello
+//**Bold Text**
+//_Italic Text_
+//**_Bold and Italic Text_**
+Hello my name is Christian Torres, I am a senior Electrical Systems Engineering student at Arizona State University.
 
 ## Research Question
 
