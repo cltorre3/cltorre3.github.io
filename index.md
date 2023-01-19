@@ -33,5 +33,4 @@ Hello my name is Christian Torres, I am a senior Electrical Systems Engineering 
 [LinkedIn](https://www.linkedin.com/in/christian-torres-b15336248/)  
 [Handshake](https://www.linkedin.com/in/christian-torres-b15336248/)
 
-
 ## References
