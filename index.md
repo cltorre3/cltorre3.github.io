@@ -6,10 +6,7 @@ title: Home
 
 ## Introduction
 
-//**Bold Text**
-//_Italic Text_
-//**_Bold and Italic Text_**
-Hello my name is Christian Torres, I am a senior Electrical Systems Engineering student at Arizona State University.
+Hello my name is Christian Torres, I am a senior Electrical Systems Engineering student at Arizona State University. My current engineering interests involve IC manufacturing and development. I also have a passion for environmental science and learning about new ways to maintain sustainability and reduce the environmental impact of current industries. 
 
 ## Research Question
 
@@ -33,7 +30,8 @@ Hello my name is Christian Torres, I am a senior Electrical Systems Engineering 
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+[LinkedIn](https://www.linkedin.com/in/christian-torres-b15336248/)  
+[Handshake](https://www.linkedin.com/in/christian-torres-b15336248/)
 
 
 ## References
