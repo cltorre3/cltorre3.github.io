@@ -14,7 +14,7 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
 
 [LinkedIn](https://www.linkedin.com/in/christian-torres-b15336248/)  
 [Handshake](https://app.joinhandshake.com/stu/users/5290894)  
-[Github](https://github.com/cltorre3)
+[Github](https://github.com/cltorre3)  
 Add Resume Copy Here
 
 ## Education
