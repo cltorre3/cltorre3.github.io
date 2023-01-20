@@ -6,7 +6,9 @@ title: Home
 
 ## Introduction
 
-Hello my name is Christian Torres, I am a senior Electrical Systems Engineering student at Arizona State University. My current engineering interests involve IC manufacturing and development. I also have a passion for environmental science and learning about new ways to maintain sustainability and reduce the environmental impact of current industries. 
+Hello my name is Christian Torres, I am an Electrical Systems Engineering student at Arizona State University. My current engineering interests involve IC manufacturing and development. I also have a passion for environmental science and learning about new ways to maintain sustainability and reduce the environmental impact of current industries. This site is meant to be my personal site for my own work and career accomplishments.
+
+Feel free to contact me at +1-(602)-316-5433 or email me at cltorre3@asu.edu
 
 ## Research Question
 
@@ -31,6 +33,6 @@ Hello my name is Christian Torres, I am a senior Electrical Systems Engineering 
 ## External Links
 
 [LinkedIn](https://www.linkedin.com/in/christian-torres-b15336248/)  
-[Handshake](https://www.linkedin.com/in/christian-torres-b15336248/)
+[Handshake](https://app.joinhandshake.com/stu/users/5290894)
 
 ## References
