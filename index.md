@@ -10,11 +10,19 @@ Hello my name is Christian Torres, I am an Electrical Systems Engineering studen
 
 Feel free to contact me at +1-(602)-316-5433 or email me at cltorre3@asu.edu
 
-## Research Question
+## External Links
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+[LinkedIn](https://www.linkedin.com/in/christian-torres-b15336248/)  
+[Handshake](https://app.joinhandshake.com/stu/users/5290894)  
+[Github](https://github.com/cltorre3)
+
+## Education
+
+* Mesa High School (2017) 
+     * Awards: Scholastic Diploma & Principal's Award
+* Arizona State University (2023)
+    * BSE in Electrical Systems Engineering 
+    * Awards: Dean's List (Fall 2021,2022 & Spring 2022)  
 
 ## Background
 
@@ -29,10 +37,3 @@ Feel free to contact me at +1-(602)-316-5433 or email me at cltorre3@asu.edu
 1. Numbered Point 3
 
 ## Conclusions and Future Work
-
-## External Links
-
-[LinkedIn](https://www.linkedin.com/in/christian-torres-b15336248/)  
-[Handshake](https://app.joinhandshake.com/stu/users/5290894)
-
-## References
