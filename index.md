@@ -37,4 +37,3 @@ Add Resume Copy Here
 
 ## Projects
 
-## 
