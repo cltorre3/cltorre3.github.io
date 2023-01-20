@@ -25,7 +25,7 @@ Add Resume Copy Here
     * BSE in Electrical Systems Engineering 
     * Awards: Dean's List (Fall 2021,2022 & Spring 2022)  
 
-## Expierence
+## Experence
 
 ## Skills
 
