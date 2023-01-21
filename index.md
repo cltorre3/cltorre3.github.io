@@ -33,7 +33,7 @@ Add Resume Copy Here
 1. Numbered Point 2
 1. Numbered Point 3
 
-## Coursework
-
 ## Projects
+
+## Courses
 
