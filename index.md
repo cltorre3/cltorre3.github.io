@@ -35,5 +35,38 @@ Add Resume Copy Here
 
 ## Projects
 
-## Courses
+## Coursework (By Focus)
+* Electrical:
+    * EGR 401/402: Professional Design Project (In Progress & Under NDA)  
+        * Senior Engineering Capstone project course. Worked with a professional industrial partner in the developlment of their requested prototype.
+    * EGR 431: Electrical Power Management (In Progress)  
+        * Application of the devices and techniques used to supply and manage power in electrical systems.
+    * EGR 430: Design, Fabrication and Architecture of Electronic Devices  
+        * Comprehensive review of the design, operation, production and application of semiconductor devices and integrated circuits. Covering the close interaction between materials, semiconductor physics and circuit performance, especially in terms of the applications and economics of digital systems. 
+    * EGR 304/314: Embbedded Systems Design Project 
+        * Junior Engineering project course. Applies design principles to conceptualize, implement and characterize an embedded electromechanical system in a project setting. Including the development of electrical and embbedded systems from schematic to PCB through KiCAD and Cadence. 
+    * EGR 338: Microcontrollers in Smart Systems
+        * Implementation of PIC18 & 16 microcontrollers with sensors, switches, indicators, and other human interafaces using C prgoramming language. Also involved the integration of both hardware and software and the application of open and closed loop systems.
+    * EGR 334: Analog-Digital Interfaces
+        * Understanding of signal processing and operations between sensors for digital data processsing. As well as the application of analog signal processors and their conversions for system performance.
+    * EGR 330: Design of Electrical Systems
+        * Fundemental understanding of electrical system architectures and components used in both electrical and electro-mechanical systems.
+    * EEE 120: Digital Design Fundementals
+        * Explore fundementals of digital design including binary, logic gates, and logic gate combination for larger systems. Development and analysis of state diagrams and mealy and moore state machines.
+* Manufacturing:
+     * MFG  488: Integrated Circuit Manufacturing (In Progress)
+        * Development and application of manufacturing methods for integrated circuits. Covering the manufacturing processes of integrated circuits with statistical analysis of wafer production.    
+    * MFG 472: Additive Manufacturing
+        * Comprehensive overview of additive manufacturing processes including FDM, SLS, SLA, Multi-Material Extrusion, LPBF, and Polyjet printing. As well as the analysis of part orientation, supports, processes parameters, material properties, and design that impacting manufacturing.
+     * EGR 294: Fundementals of Engineering Prototyping
+        * Explore the fundamentals of engineering prototyping processes on plastic, ferrous nd non-ferrous materials. Interpretation of engineering documentation as it relates to prototyping, geometric diensioning, tolerances and inspection. Emphasis on safe shop practices. Lathe and Mill machining instruction.
+* Enviornmental:
+    * ERM 522: Air Pollution & Toxic Chemical Emissions   
+        * Overview of the current legal requirements to control air emissions from both stationary and mobile sources. Including the analysis of air pollution monitoring technologies, control technologies for both stationary and mobile sources, the chemistry and physics of air pollution and climate change; the health effects of air pollution, and greenhouse gas adaption/mitigation strategies. 
+    * ERM  432: Sustainable Solid Waste Management  
+        * Analysis and understanding of the engineering and management principles for integrated solid waste systems. Including the process of waste from generation to disposal and ensuring sustainable practices.
+    * ERM 203: Environmental Law Regulations  
+        * Understanding and analysis of federal, state, and local enviornmental laws, regulations, and standard that apply to environmental management.
+    * ERM 201: Environmental Management  
+        *  Uderstanding of the fundamentals of environmental science; environmental issues; and major environmental standards.
 
