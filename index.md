@@ -1,6 +1,5 @@
-
 ---
-title: Home
+Christian's Web Page
 ---
 
 # Home
