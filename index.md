@@ -25,8 +25,17 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
     * BSE in Electrical Systems Engineering 
     * Awards: Dean's List (Fall 2021,2022 & Spring 2022)  
 
-## Experence
-
+## Experience
+* Arizona State University UGTA (Aug. 2022 - Present) for EGR 304/314
+    * Assisted students with electrical circuit design projects, enabling them to develop functioning printed circuit board designs. Electrical circuit designs built and made in both KiCAD & Cadence/OrCAD.
+    * Aided students in debugging & troubleshooting both circuit and programming issues through use of Infineon PSoC & Microchip PIC microcontrollers.
+    *  Developed tutorials for schematic and PCB software programs required by the course.     
+         * Tutorials Linked Here:  
+           [KiCAD Tutorial 1](https://embedded-systems-design.github.io/adding-a-rubout-area-in-kicad/)  
+           [KiCAD Tutorial 2](https://embedded-systems-design.github.io/adding-text-to-pcb-in-kicad/)  
+           [Cadence/OrCAD Tutorial 1](https://embedded-systems-design.github.io/altering-trace-widths/)   
+           [Cadence/OrCAD Tutorial 2](https://embedded-systems-design.github.io/updating-a-part-in-your-library/)  
+             
 ## Skills
 
 1. Numbered Point 1
