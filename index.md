@@ -36,13 +36,50 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
            [Cadence/OrCAD Tutorial 1](https://embedded-systems-design.github.io/altering-trace-widths/)   
            [Cadence/OrCAD Tutorial 2](https://embedded-systems-design.github.io/updating-a-part-in-your-library/)  
              
-## Skills
+## Skills in progress
 
 1. Numbered Point 1
 1. Numbered Point 2
 1. Numbered Point 3
 
-## Projects
+## Projects & Experiences
+* Senior Capstone Design Project (Currently Under NDA)  
+    * Currently in the development of a portable Direct Air Capture (DAC) device that will capture CO2 from air and extract it to be used in another process or demonstration type. CO2 data will be taken directly from a sensor and transmitted to a database for monitoring CO2 yield.  
+* Non-Title V Air Emissions Permit for Maricopa County (ERM 494)  
+    * Developed a Non-Title V Air Emissions Permit for a mock aerospace manufacturing facility in accordance with the Clean Air Act. Permit also created in accordance with local county air pollution regulations. These include Rules: 241, 310, 323, 324, 348. 
+    * Calculations of PM 2.5/10, SO2, NOx, VOCs, CO2, and HAPS conducted during the project done using specifications from manufacturers of specific machine equipment.
+    * Drafted Permit Here: [Air Permit Application, Conditions, Calculations.pdf](https://github.com/cltorre3/cltorre3.github.io/files/10574946/Air.Permit.Application.Conditions.Calculations.pdf)
+* Robotic Grip Aid for Disabled Persons "Bionic Aid" (EGR 314)  
+    *   Created and helped develop a prototype of an exoskeletal hand that allows the user to have a robotically sealed grip that is controlled by wires embedded in the hand. These wires are reeled in when pressure applied to the sensor indicates release, allowing the user to grip the object with control until the release of the hand. 
+    * Personally in charge of PCB design, production, assembly. Also implemented own temperature sensor onto system to prevent damage from possible overcurrent.   
+    * Booth Presentation & Board Design:
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/100453538/216533232-a56a4423-49e4-4537-87f0-7097e814a867.jpg" width="500" />
+  <img src="https://user-images.githubusercontent.com/100453538/216535344-cbe1c693-e4a7-42fe-acef-68df753d37ce.jpg" width="400" />
+</p>
+
+ 
+* Analog Temperature Sensor using PIC18F66J65 (EGR 314)
+    * Created an analog temperature sensor using Microchip PIC18F using a 10 bit ADC.
+    * Utilized a thermistor with a non-inverting Op Amp design.
+    * Sensor is set to room temperature for quick demonstration.
+    * Board Design & Demonstration:
+<p align="center">
+  <img width="400" height="400" src="https://user-images.githubusercontent.com/100453538/216536565-ed7c5202-1a6c-4f8b-8155-5602fcbcb0d7.jpg">
+</p>
+ 
+https://user-images.githubusercontent.com/100453538/216540133-b90c8b87-2ef3-48f4-bf04-e14febc25c2f.mp4
+
+
+
+
+* Active Digital Signal Processing Speaker Crossover (EGR 334)
+    * Helped 
+* PID System for Motor Load (EGR 330)
+* Mini Jack & Vise Creation (EGR 294)
+    * Created a Mini Vice Holder utilizing a manual Bridgeport Mill
+
 
 ## Coursework (By Focus)
 * Electrical:
