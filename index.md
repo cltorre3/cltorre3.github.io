@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Hello my name is Christian Torres, I am an Electrical Systems Engineering student at Arizona State University. My current engineering interests involve IC manufacturing and development. I also have a passion for environmental science and learning about new ways to maintain sustainability and reduce the environmental impact of current industries. This site is meant to be my personal site for my own work and career accomplishments but also available to those as recuiters. Thank you!
+Hello I'm Christian Torres. I am an Electrical Systems Engineering student at Arizona State University. My current engineering interests involve IC manufacturing and development. I also have a passion for environmental science and learning about new ways to maintain sustainability and reduce the environmental impact of current industries. This site is meant to be my personal site for my own work and career accomplishments but also available to those as recuiters. Thank you!
 
 Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
 
@@ -36,10 +36,25 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
            [Cadence/OrCAD Tutorial 2](https://embedded-systems-design.github.io/updating-a-part-in-your-library/)  
              
 ## Skills in progress
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
+* Technical:   
+	* Adept in Embedded Circuit designs including PCB design, fabrication, and assembly
+	* Competent in Microcontroller application and programming with multiple peripherals
+	* Experienced for 3D printing in SLS, SLA, and FDM 
+	* Also have some experience in CAD programs such as SolidWorks, Fusion 360, and FreeCAD 
+* Software:  
+ 	* General knowledge of Microsoft Office (Word, Powerpoint, etc.)
+ 	* Experienced in Microsoft Excel including programming, data analysis, and pivot tables.
+ 	* Adept at programming in C, C++, and Arduino
+ 	* Experience in MATLAB
+ 	* Skilled in Cadence (OrCAD & Allegro) & KiCAD for schematic and PCB design)
+ 	* Knowledge in Multisim, Logisim, & LT Spice for circuit and logic design
+ 	* Basic exerience in video editing with DaVinci Resolve
+ 	* Currently learning JMP 16 for statistical analysis
+* Hands On:
+	* Manual Lathe & Mill experience. Knowledge of GD & T symbols and meanings. 
+	* Hand soldering in both THT & SMD down to 0402
+	* Physical circuit design and debugging
+	* General knowledge of hand tools and equipment
 
 ## Projects
 * Senior Capstone Design Project (Currently Under NDA)  
