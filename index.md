@@ -51,7 +51,8 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
     * Drafted Permit Here: [Air Permit Application, Conditions, Calculations.pdf](https://github.com/cltorre3/cltorre3.github.io/files/10574946/Air.Permit.Application.Conditions.Calculations.pdf)
 * Robotic Grip Aid for Disabled Persons "Bionic Aid" (EGR 314)  
     *   Created and helped develop a prototype of an exoskeletal hand that allows the user to have a robotically sealed grip that is controlled by wires embedded in the hand. These wires are reeled in when pressure applied to the sensor indicates release, allowing the user to grip the object with control until the release of the hand. 
-    * Personally in charge of PCB design, production, assembly. Also implemented own temperature sensor onto system to prevent damage from possible overcurrent.   
+    * Personally in charge of PCB design, production, assembly. Also implemented own temperature sensor onto system for temperature monitoring. Temperature sensor was an analog using a thermistor in a non-inverting Op Amp configuration.
+    * I also personally hand soldered every component on this board.
     * Booth Presentation & Board Design:
 
 <p float="left">
@@ -59,25 +60,27 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
   <img src="https://user-images.githubusercontent.com/100453538/216535344-cbe1c693-e4a7-42fe-acef-68df753d37ce.jpg" width="400" />
 </p>
 
- 
-* Analog Temperature Sensor using PIC18F66J65 (EGR 314)
-    * Created an analog temperature sensor using Microchip PIC18F using a 10 bit ADC.
-    * Utilized a thermistor with a non-inverting Op Amp design.
-    * Sensor is set to room temperature for quick demonstration.
-    * Board Design & Demonstration:
-<p align="center">
-  <img width="400" height="400" src="https://user-images.githubusercontent.com/100453538/216536565-ed7c5202-1a6c-4f8b-8155-5602fcbcb0d7.jpg">
-</p>
- 
-https://user-images.githubusercontent.com/100453538/216540133-b90c8b87-2ef3-48f4-bf04-e14febc25c2f.mp4
-
-
 * Active Digital Signal Processing Speaker Crossover (EGR 334)
-    * Helped 
-* PID System for Motor Load (EGR 330)
-* Mini Jack & Vise Creation (EGR 294)
-    * Created a Mini Vice Holder utilizing a manual Bridgeport Mill
+    * Helped create and develop an active digital signal processing program that takes a single input signal and seperates it into a high, band, and low pass signal. This was done utilizing Python and a Raspberry Pi.
+    * Github does not support mp3 or wav files, therefore it is zipped below:     
+             * Original File: Chicago.wav  
+             * High Pass Conversion: HighPassAudio.wav  
+             * Low Pass Conversion: LowPassAudio.wav  
+             * Band Pass Conversion: BandPassAudio.wav  
+             * File: [Active DSP Files.zip](https://github.com/cltorre3/cltorre3.github.io/files/10671678/Active.DSP.Files.zip)  
 
+* PID System for Motor RPM Under Load (EGR 330)  
+    * Helped create and develop a PID controller system for driving a motor attached to a generator. The goal was to use the PID to maintain the motor at the same RPM when a load was attached to the generator.
+    * See Video: [Project Video](https://drive.google.com/file/d/1f3oaLfIXC9qrUkXi268p7UAyDMRYr4F8/view?usp=share_link)
+* Mini Jack & Vise Creation (EGR 294)  
+	* Created a Mini Jack utilizing a lathe. Multiple materials cut including steel, aluminum, delrin, and anonized aluminum. Multiple operations performed include turning, chamfering, parting, tapering, and threading. Also included heat treatment and sand blasting.
+    * Created a Mini Vise utilizing a manual Bridgeport Mill. Multiple operations were included in its machining including face milling, reaming, CNC, saw, and thread tapping.
+    * All tolerances kept within 0.005 inches per GD & T. 
+
+## Published Reports
+* Worked on the ASU Project Cities partnership with the City of Peoria for idenitfying and implementating more sustainable practices for the city. My work involved research into the growing amount of E-Waste that the city faced. I researched to find the most sustainable, ethical, and enviornmentally friendly practices that were available to the City of Peoria. This was done in collaboration with multiple members as a team.   
+        * [Project Partnership Site](https://drive.google.com/file/d/1f3oaLfIXC9qrUkXi268p7UAyDMRYr4F8/view?usp=share_link)  
+        * [Published Report](https://github.com/cltorre3/cltorre3.github.io/files/10672102/Published.report_Biogas.Ewaste.Report_web.pdf)
 
 ## Coursework (By Focus)
 * Electrical:
@@ -103,8 +106,8 @@ https://user-images.githubusercontent.com/100453538/216540133-b90c8b87-2ef3-48f4
     * MFG 472: Additive Manufacturing
         * Comprehensive overview of additive manufacturing processes including FDM, SLS, SLA, Multi-Material Extrusion, LPBF, and Polyjet printing. As well as the analysis of part orientation, supports, process parameters, material properties, and design that impact manufacturing.
      * EGR 294: Fundementals of Engineering Prototyping
-        * Explore the fundamentals of engineering prototyping processes on plastic, ferrous, and non-ferrous materials. Interpretation of engineering documentation as it relates to prototyping, geometric dimensioning, tolerances, and inspection. Emphasis on safe shop practices. Lathe and Mill machining instruction.
-* Enviornmental:
+        * Explore the fundamentals of engineering prototyping processes on plastic, ferrous, and non-ferrous materials. Interpretation of engineering documentation as it relates to prototyping, geometric dimensioning, tolerances, and inspection. Emphasis on safe shop practices. Lathe and Mill machining instruction. Also learned documentation for manufacturing such as GD&T.
+* Environmental:
     * ERM 522: Air Pollution & Toxic Chemical Emissions   
         * Overview of the current legal requirements to control air emissions from both stationary and mobile sources. Including the analysis of air pollution monitoring technologies, control technologies for both stationary and mobile sources, the chemistry and physics of air pollution and climate change; the health effects of air pollution, and greenhouse gas adaptation/mitigation strategies. 
     * ERM  432: Sustainable Solid Waste Management  
