@@ -1,8 +1,7 @@
----
-Christian's Web Page
----
 
-# Home
+# Christian's Web Page
+
+
 
 ## Introduction
 
@@ -54,11 +53,6 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
     * Personally in charge of PCB design, production, assembly. Also implemented own temperature sensor onto system for temperature monitoring. Temperature sensor was an analog using a thermistor in a non-inverting Op Amp configuration.
     * I also personally hand soldered every component on this board.
     * Booth Presentation & Board Design:
-
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/100453538/216533232-a56a4423-49e4-4537-87f0-7097e814a867.jpg" width="500" />
-  <img src="https://user-images.githubusercontent.com/100453538/216535344-cbe1c693-e4a7-42fe-acef-68df753d37ce.jpg" width="400" />
-</p>
 
 * Active Digital Signal Processing Speaker Crossover (EGR 334)
     * Helped create and develop an active digital signal processing program that takes a single input signal and seperates it into a high, band, and low pass signal. This was done utilizing Python and a Raspberry Pi.
