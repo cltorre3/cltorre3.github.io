@@ -42,7 +42,7 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
 1. Numbered Point 2
 1. Numbered Point 3
 
-## Projects & Experiences
+## Projects
 * Senior Capstone Design Project (Currently Under NDA)  
     * Currently in the development of a portable Direct Air Capture (DAC) device that will capture CO2 from air and extract it to be used in another process or demonstration type. CO2 data will be taken directly from a sensor and transmitted to a database for monitoring CO2 yield.  
 * Non-Title V Air Emissions Permit for Maricopa County (ERM 494)  
@@ -70,8 +70,6 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
 </p>
  
 https://user-images.githubusercontent.com/100453538/216540133-b90c8b87-2ef3-48f4-bf04-e14febc25c2f.mp4
-
-
 
 
 * Active Digital Signal Processing Speaker Crossover (EGR 334)
