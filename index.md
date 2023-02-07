@@ -1,7 +1,5 @@
 
-# Christian's Web Page
-
-
+# My Web Page
 
 ## Introduction
 
@@ -35,7 +33,7 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
            [Cadence/OrCAD Tutorial 1](https://embedded-systems-design.github.io/altering-trace-widths/)   
            [Cadence/OrCAD Tutorial 2](https://embedded-systems-design.github.io/updating-a-part-in-your-library/)  
              
-## Skills in progress
+## Skills 
 * Technical:   
 	* Adept in Embedded Circuit designs including PCB design, fabrication, and assembly
 	* Competent in Microcontroller application and programming with multiple peripherals
