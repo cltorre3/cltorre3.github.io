@@ -40,14 +40,14 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
 	* Experienced for 3D printing in SLS, SLA, and FDM 
 	* Also have some experience in CAD programs such as SolidWorks, Fusion 360, and FreeCAD 
 * Software:  
- 	* General knowledge of Microsoft Office (Word, Powerpoint, etc.)
- 	* Experienced in Microsoft Excel including programming, data analysis, and pivot tables.
- 	* Adept at programming in C, C++, and Arduino
- 	* Experience in MATLAB
- 	* Skilled in Cadence (OrCAD & Allegro) & KiCAD for schematic and PCB design)
- 	* Knowledge in Multisim, Logisim, & LT Spice for circuit and logic design
- 	* Basic exerience in video editing with DaVinci Resolve
- 	* Currently learning JMP 16 for statistical analysis
+ 	* General knowledge of Microsoft Office (Word, Powerpoint, etc.)  
+ 	* Experienced in Microsoft Excel including programming, data analysis, and pivot tables.  
+ 	* Adept at programming in C, C++, and Arduino  
+ 	* Experience in MATLAB  
+ 	* Skilled in Cadence (OrCAD & Allegro) & KiCAD for schematic and PCB design)  
+ 	* Knowledge in Multisim, Logisim, & LT Spice for circuit and logic design  
+ 	* Basic exerience in video editing with DaVinci Resolve  
+ 	* Currently learning JMP 16 for statistical analysis  
 * Hands On:
 	* Manual Lathe & Mill experience. Knowledge of GD & T symbols and meanings. 
 	* Hand soldering in both THT & SMD down to 0402
