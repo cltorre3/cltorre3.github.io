@@ -87,7 +87,7 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
 
 ## Published Works
 * Worked on the ASU Project Cities partnership with the City of Peoria for idenitfying and implementating more sustainable practices for the city. My work involved research into the growing amount of E-Waste that the city faced. I researched to find the most sustainable, ethical, and enviornmentally friendly practices that were available to the City of Peoria. This was done in collaboration with multiple members as a team.   
-        * [Project Partnership Site](https://drive.google.com/file/d/1f3oaLfIXC9qrUkXi268p7UAyDMRYr4F8/view?usp=share_link)  
+        * [Project Partnership Site](https://sustainability-innovation.asu.edu/project-cities/projects/#fall-2021-peoria-clarkdale)  
         * [Published Report](https://github.com/cltorre3/cltorre3.github.io/files/10672102/Published.report_Biogas.Ewaste.Report_web.pdf)
 
 ## Coursework (By Focus)
