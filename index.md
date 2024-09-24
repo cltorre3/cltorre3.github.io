@@ -32,7 +32,12 @@ Feel free to contact me at +1-(602)-316-5433 or e-mail me at cltorre3@asu.edu
            [KiCAD Tutorial 1](https://embedded-systems-design.github.io/adding-a-rubout-area-in-kicad/)  
            [KiCAD Tutorial 2](https://embedded-systems-design.github.io/adding-text-to-pcb-in-kicad/)  
            [Cadence/OrCAD Tutorial 1](https://embedded-systems-design.github.io/altering-trace-widths/)   
-           [Cadence/OrCAD Tutorial 2](https://embedded-systems-design.github.io/updating-a-part-in-your-library/)  
+           [Cadence/OrCAD Tutorial 2](https://embedded-systems-design.github.io/updating-a-part-in-your-library/)
+
+* Process Technology Engineer - Fujifilm Electronic Materials
+  	* Served as the electrical engineer on R&D process technology team
+  	* Utilized JMP and Six Sigma methods to preform statistical anlaysis on wafer data for production
+  	* Designed and developed multiple devices used for combating ESD for fire prevention
              
 ## Skills 
 * Technical:   
